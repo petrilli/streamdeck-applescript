@@ -1,5 +1,6 @@
-# applescript
-Random Applescript that may be useful
+# Applescripts for Stream Deck
+
+Random Applescript that may be useful if you're using a [Stream Deck](https://www.elgato.com/en/gaming/stream-deck) on macOS. This won't be much help if you're interested in Twitch and other things, and instead is focused on more traditional productivity.
 
 ## Chrome Library.scpt
 
